@@ -42,7 +42,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>fr.masterofgame09.masterbot.Bot</mainClass>
+                            <mainClass>fr.masterofgame09.badge.Bot</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -75,7 +75,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>fr.masterofgame09.masterbot.Bot</mainClass>
+                                    <mainClass>fr.masterofgame09.badge.Bot</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>

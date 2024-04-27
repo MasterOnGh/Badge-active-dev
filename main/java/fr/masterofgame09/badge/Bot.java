@@ -43,7 +43,8 @@ public class Bot {
             }
         }
         try {
-            Gui gui = new Gui();
+            //  Don't create gui because we use CLI interface
+            //  Gui gui = new Gui();
             Bot bot = new Bot();
         }catch (LoginException e){
             throw new RuntimeException(e);
